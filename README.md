@@ -42,9 +42,3 @@ Ensure you have the following installed:
 - Node.js `v16+`
 - MetaMask extension
 - Solana CLI (if using Solana)
-
-### Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/nft-marketplace.git
-   cd nft-marketplace
